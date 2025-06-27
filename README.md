@@ -18,6 +18,7 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"></a>
   <a href="https://react.dev/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></a>
   <a href="https://vuejs.org/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></a>
+  <a href="https://expressjs.com/" target="_blank"><img height="50" src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000"></a>
   <a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
   <a href="https://www.figma.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg"></a> 
   <a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
