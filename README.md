@@ -20,7 +20,8 @@
   <a href="https://vuejs.org/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></a>
   <a href="https://expressjs.com/" target="_blank"><img height="50" src="https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000"></a>
   <a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
-  <a href="https://www.figma.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg"></a> 
+  <a href="https://www.figma.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg"></a>
+  <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/c.svg"></a>
   <a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a>
   <a href="https://pandas.pydata.org//" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/pandas.svg"></a> 
   <a href="https://numpy.org/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"></a>
