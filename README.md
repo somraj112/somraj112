@@ -17,6 +17,7 @@
   <a href="https://tailwindcss.com/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg"></a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg"></a>
   <a href="https://react.dev/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg"></a>
+  <a href="https://reactrouter.com/" target="_blank"><img height="50" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png"></a>
   <a href="https://vuejs.org/" target="_blank"><img height="50" src="https://cdn.worldvectorlogo.com/logos/vue-9.svg"></a>
   <a href="https://expressjs.com/" target="_blank"><img height="50" src="https://img.icons8.com/?size=100&id=PZQVBAxaueDJ&format=png&color=000000"></a>
   <a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
