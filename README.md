@@ -3,12 +3,20 @@
 
 - 📫 How to reach me **somrajnandi112@gmail.com**
 - ⚡ Fun fact: I am a student exploring the tech world.
-<h3 align:"left">Connect with me:</h3>
-<p align:"left">
-<a href:"www.linkedin.com/in/somraj-nandi-011817323" target="blank"><img src ="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50"></a>
-<a href:"https://www.instagram.com/somrajnandi" target="blank"><img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1920px-Instagram_logo_2022.svg.png" alt="Instagram" width="50"></a>
-<a href:"https://x.com/somraj_nandi" target="blank"><img src ="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1732195389~exp=1732198989~hmac=94b8cb1b9d8dc83b7881920433525d6b7726b21ef9a14dc75d9ece69bad3a3da&w=1380" alt="X" width="50"></a>
-<a href:"mailto:somrajnandi112@gmail.com" target="blank"><img src ="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="50"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/somraj-nandi-011817323" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://www.instagram.com/somrajnandi" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1920px-Instagram_logo_2022.svg.png" alt="Instagram" width="40" />
+  </a>
+  <a href="https://x.com/somraj_nandi" target="_blank">
+    <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1732195389~exp=1732198989~hmac=94b8cb1b9d8dc83b7881920433525d6b7726b21ef9a14dc75d9ece69bad3a3da&w=1380" alt="X" width="40" />
+  </a>
+  <a href="mailto:somrajnandi112@gmail.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="40" />
+  </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
