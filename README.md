@@ -2,7 +2,7 @@
 
 
 - 📫 How to reach me **somrajnandi112@gmail.com**
-- ⚡ Fun fact: I am a student exploring the tech world.
+- ⚡ Fun fact: I am intrested in Web Development & Data Science.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/somraj-nandi-011817323" target="_blank">
