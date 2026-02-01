@@ -68,7 +68,7 @@
 ---
 
 ### GitHub Stats  
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=somraj112&show_icons=true&theme=dark)
+![Somraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=somraj112&show_icons=true&theme=dark)
 
 ### Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somraj112&layout=compact&theme=gruvbox)
