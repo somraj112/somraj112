@@ -68,10 +68,10 @@
 ---
 
 ### GitHub Stats  
-![Somraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=somraj112&show_icons=true&theme=dark)
+![Somraj's GitHub stats](https://github-readme-stats.shion.dev/api?username=somraj112&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ### Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somraj112&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=somraj112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somraj112&theme=dark)
