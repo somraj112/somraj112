@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Web Developer • Data Science Enthusiast • Open-Source Learner
+  Full-Stack Web Developer • Data Science • Open-Source Learner
 </h3>
 
 <p align="center">
